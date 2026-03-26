@@ -116,27 +116,6 @@ Make sure you have Bun.js installed on your system.
 https://bun.sh/docs/installation
 ```
 
-### NPM Usage
-
-**Run via CLI (npx):**
-
-```bash
-npx @ryanwtf7/hianime-api
-```
-
-**Install as Library:**
-
-```bash
-npm install @ryanwtf7/hianime-api
-```
-
-**Usage as Library:**
-
-```javascript
-import app from '@ryanwtf7/hianime-api';
-// Mount app or use fetch handler
-```
-
 ### Local Setup
 
 **Step 1:** Clone the repository
